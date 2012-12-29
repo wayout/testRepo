@@ -1,3 +1,3 @@
 $(function() {
-	$('p').text('hero In');
+	$('p').text('hero Ins');
 });
