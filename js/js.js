@@ -1,3 +1,3 @@
 $(function() {
-	$('p').text('hero Inspectora');
+	$('p').text('ветка 3');
 });
