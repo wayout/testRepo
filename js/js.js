@@ -1,3 +1,3 @@
 $(function() {
-	$('p').text('hero Ins');
+	$('p').text('hero Inspector');
 });
